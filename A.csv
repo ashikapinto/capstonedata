@@ -1,0 +1,8 @@
+ID1,Category1,NE1,ID2,Category2,NE2,sentence,pmid
+1009005,species,mouse,106966301,disease,hepatitis virus,The SJL mouse strain is resistant to infection by some strains of the murine coronavirus mouse hepatitis virus,1279194
+1009005,species,mouse,93874983,disease,D1,mouse can be prone to D1 disease,546758
+1009007,species,cow,74837,disease,cowpox,cows suffer from cowpox disease,6567
+1009007,species,cow,324,disease,anthrax,"Anhrax, a highly infectious and fatal disease of cattle",32432432
+1009008,species,rabbit,348,disease,Myxomatosis,rabbit can suffer from Myxomatosis by getting infected by virus,213123
+1009008,species,rabbit,348,disease,Myxomatosis,rabbit having Myxomatosis,234
+1009005,species,mouse,78989,disease,Tularemia ,mice can spread tularemia,8909887
